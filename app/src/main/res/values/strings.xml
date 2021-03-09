@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Storage Part 1</string>
+    <string name="shared_preferences">Shared Preferences</string>
+    <string name="internal_file_storage">Internal File Storage</string>
+    <string name="android_storage">Android Storage</string>
+    <string name="write_text_here">Write Text Here</string>
+    <string name="submit">Submit</string>
+    <string name="retrieve">Retrieve</string>
+    <string name="write">Write</string>
+    <string name="read">Read</string>
+</resources>
