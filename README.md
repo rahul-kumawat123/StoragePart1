@@ -5,3 +5,5 @@ Shared Preferences and Internal File Storage
 
 
 2. Make an app that has one edit text and two buttons called Write and read. App should save text provided in the edit text as a txt file on internal/external storage on clicking on Write button. Upon clicking on read button edit text should get cleared and the text from the saved file should be populated.
+
+https://user-images.githubusercontent.com/78499081/110596974-ff6f4000-81a5-11eb-9db6-da720ddf67ff.mp4
