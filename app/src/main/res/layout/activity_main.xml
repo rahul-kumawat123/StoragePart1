@@ -9,8 +9,8 @@
 
     <Button
         android:id="@+id/sharedPrefButton"
-        android:layout_width="204dp"
-        android:layout_height="102dp"
+        android:layout_width="@dimen/shared_pref_btn_width"
+        android:layout_height="@dimen/shared_pref_btn_height"
         android:text="@string/shared_preferences"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -21,8 +21,8 @@
 
     <Button
         android:id="@+id/internalFileStorageButton"
-        android:layout_width="203dp"
-        android:layout_height="88dp"
+        android:layout_width="@dimen/file_storage_btn_width"
+        android:layout_height="@dimen/file_storage_btn_height"
         android:layout_marginBottom="220dp"
         android:text="@string/internal_file_storage"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -34,8 +34,8 @@
 
     <TextView
         android:id="@+id/headingTextView"
-        android:layout_width="283dp"
-        android:layout_height="68dp"
+        android:layout_width="@dimen/heading_tv_width"
+        android:layout_height="@dimen/heading_tv_height"
         android:gravity="center"
         android:text="@string/android_storage"
         android:textColor="@color/white"
